@@ -22,7 +22,7 @@ The following syntax searches a specific repo:
 
 **Note that if the API does not find the repo given in the parameter, it will continue the search and find all repositories with hardcoded firebase databases.**
 
-Command-Line Parameters (Optional)
+### Command-Line Parameters (Optional)
 
 -h
 The -h command-line parameter lists help options for the scanner. There is only one parameter at the movement, so the help menu displays one option.
